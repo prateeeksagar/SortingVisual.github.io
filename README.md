@@ -1,7 +1,15 @@
-The Sorting Visulizer
+The Sorting Visualizer
 
 Sorting visualizer help you to understand how different sorting algorithms works
 
-live website : <a src = "https://prateeeksagar.github.io/SortingVisual.github.io/">demo</a>
+live website : https://prateeeksagar.github.io/SortingVisual.github.io/
 
+ALGORITHMS: 
+  Bubble Sort
+  Insertion Sort        
+  Quick Sort
+  Merge Sort
+  Heap Sort
+  Selection Sort
+  
 
