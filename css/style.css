@@ -1,0 +1,89 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Courier New', monospace;
+  font-size: large;
+  font-weight: bold;
+background-color: antiquewhite;
+}
+.nav_bar{
+  background-color: antiquewhite;
+  
+}
+.name{
+text-align: center;
+background-color: tan;
+font-size: 22px;
+padding: 17px;
+margin-bottom: 11px;
+}
+
+
+
+section {
+
+  display: -webkit-inline-box;
+}
+
+section #Info_Cont1 {
+  padding: 9%;
+}
+
+section #array_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 59vw;
+  height: 54vh;
+  margin: 48px;
+  border-radius: 15px;
+  background-color:aliceblue;
+  margin-left: 120px;
+}
+
+section #Info_Cont2 {
+  padding: 10%;
+}
+
+.hide {
+  display: none;
+}
+.array-inputs{
+  display: -webkit-inline-box;
+}
+#a_size{
+  margin-right: 77px;
+
+}
+#a_speed{
+  margin-right: 77px;
+}
+#a_generate{
+  padding: 10px;
+  border-radius: 14px;
+  color: sienna;
+  background-color: wheat;
+}
+
+.algos button {
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 22px;
+  border-radius: 10px;
+  background-color: moccasin;
+  color: sienna;
+}
+.first{
+  display: -webkit-inline-box;
+}
+.sizearray{
+  display: -webkit-inline-box;
+}
+.speedarray{
+  display: -webkit-inline-box;
+}
+
+.prateek{
+  text-align: center;
+}
